@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RewardsAndAssignments", "RewardsAndAssignments\RewardsAndAssignments.csproj", "{889F82C2-FA58-4857-A2F5-8E071008DEB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RewardsAndAssignmentsTest", "RewardsAndAssignmentsTest\RewardsAndAssignmentsTest.csproj", "{5CD6DB0D-7858-49EB-9B3D-7A7BAF8388AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889F82C2-FA58-4857-A2F5-8E071008DEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889F82C2-FA58-4857-A2F5-8E071008DEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889F82C2-FA58-4857-A2F5-8E071008DEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889F82C2-FA58-4857-A2F5-8E071008DEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD6DB0D-7858-49EB-9B3D-7A7BAF8388AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD6DB0D-7858-49EB-9B3D-7A7BAF8388AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD6DB0D-7858-49EB-9B3D-7A7BAF8388AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD6DB0D-7858-49EB-9B3D-7A7BAF8388AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EC3FFC9-53F0-44F3-B7CF-DD0F08F3486A}
+	EndGlobalSection
+EndGlobal
